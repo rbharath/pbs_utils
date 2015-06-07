@@ -50,7 +50,7 @@ def preprocess_pdbbind(pdbbind_dir, num_jobs, script_dir, script_template):
     with open(script_loc, "w") as f:
       f.write(command)
 
-    qsub_command = ["qsub", "-j", "oe", script_loc]
+    qsub_command = ["qsub", "-j", "oe", "-q", "MP", script_loc]
     print qsub_command
     print "launching job"
     subprocess.Popen(qsub_command)

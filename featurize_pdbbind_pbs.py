@@ -37,7 +37,6 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
     Path to write pickle output.
   """
   assert os.path.isdir(pdbbind_dir)
-  feature_vectors = {}
 
   # Extract the subdirectories in pdbbind_dir
   subdirs = [d for d in os.listdir(pdbbind_dir) if
@@ -53,7 +52,7 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
     print job_dirs
 
     # TODO(rbharath): This is horrible. Clean this script up...
-    pickle_out = os.path.join(pickle_dir, "featurese%d.p" % job)
+    pickle_out = os.path.join(pickle_dir, "features%d.p" % job)
     command = " ".join(["python", "/home/rbharath/pbs_utils/featurize_pdbbind_pbs_job.py",
         "--pdb-directories"] + job_dirs + ["--pickle-out", pickle_out, "\n"])
 
@@ -66,7 +65,7 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
     with open(script_loc, "w") as f:
       f.write(command)
 
-    qsub_command = ["qsub", "-j", "oe", script_loc]
+    qsub_command = ["qsub", "-j", "oe", "-q", "MP", script_loc]
     print qsub_command
     print "launching job"
     subprocess.Popen(qsub_command)

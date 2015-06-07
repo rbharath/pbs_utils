@@ -18,7 +18,7 @@ def parse_args(input_args=None):
                       help='Directory to output pickled featured vectors.')
   return parser.parse_args(input_args)
 
-def featurize_job(pdb_directories):
+def featurize_job(pdb_directories, pickle_out):
   """Featurize all pdbs in provided directories."""
   # Instantiate copy of binana vector
   binana = Binana()
@@ -27,6 +27,7 @@ def featurize_job(pdb_directories):
   # for derivation.
   feature_len = (3*num_atoms*(num_atoms+1)/2 + num_atoms + 12 + 6 + 3 + 6 +
       3 + 6 + 3 + 1)
+  feature_vectors = {}
   for count, dir in enumerate(pdb_directories):
     print "\nprocessing %d-th pdb %s" % (count, dir)
 
@@ -64,7 +65,7 @@ def featurize_job(pdb_directories):
     print "About to generate feature vector."
     vector = binana.compute_input_vector(ligand_pdb_obj,
         protein_pdb_obj)
-    feature_vectors[d] = vector
+    feature_vectors[dir] = vector
     if len(vector) != feature_len:
       raise ValueError("Feature length incorrect on %s" % d)
     print "Feature vector generated correctly."
@@ -74,4 +75,4 @@ def featurize_job(pdb_directories):
 
 if __name__ == '__main__':
   args = parse_args()
-  featurize_job(args.pdb_directories)
+  featurize_job(args.pdb_directories, args.pickle_out)
