@@ -65,7 +65,7 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
     with open(script_loc, "w") as f:
       f.write(command)
 
-    qsub_command = ["qsub", "-j", "oe", "-q", "MP", script_loc]
+    qsub_command = ["qsub", "-j", "oe", "-q", "MP", "-l", "nodes=1:ppn=1", script_loc]
     print qsub_command
     print "launching job"
     subprocess.Popen(qsub_command)

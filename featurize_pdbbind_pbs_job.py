@@ -48,7 +48,7 @@ def featurize_job(pdb_directories, pickle_out):
     print (ligand_pdb, ligand_pdbqt, protein_pdb, protein_pdbqt)
     if (not ligand_pdb or not ligand_pdbqt or not protein_pdb or not
         protein_pdbqt):
-        raise ValueError("Required files not present for %s" % d)
+        raise ValueError("Required files not present for %s" % dir)
     ligand_pdb_path = os.path.join(dir, ligand_pdb)
     ligand_pdbqt_path = os.path.join(dir, ligand_pdbqt)
     protein_pdb_path = os.path.join(dir, protein_pdb)
@@ -67,7 +67,7 @@ def featurize_job(pdb_directories, pickle_out):
         protein_pdb_obj)
     feature_vectors[dir] = vector
     if len(vector) != feature_len:
-      raise ValueError("Feature length incorrect on %s" % d)
+      raise ValueError("Feature length incorrect on %s" % dir)
     print "Feature vector generated correctly."
 
   with open(pickle_out, "wb") as f:
