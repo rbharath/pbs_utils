@@ -8,7 +8,6 @@ import cPickle as pickle
 from vs_utils.features.nnscore import Binana
 from vs_utils.utils.nnscore_pdb import PDB
 
-
 def parse_args(input_args=None):
   """Parse command-line arguments."""
   parser = argparse.ArgumentParser()
@@ -22,11 +21,9 @@ def featurize_job(pdb_directories, pickle_out):
   """Featurize all pdbs in provided directories."""
   # Instantiate copy of binana vector
   binana = Binana()
-  num_atoms = len(Binana.atom_types)
   # See features/tests/nnscore_test.py:TestBinana.testComputeInputVector
   # for derivation.
-  feature_len = (3*num_atoms*(num_atoms+1)/2 + num_atoms + 12 + 6 + 3 + 6 +
-      3 + 6 + 3 + 1)
+  feature_len = binana_num_features()
   feature_vectors = {}
   for count, dir in enumerate(pdb_directories):
     print "\nprocessing %d-th pdb %s" % (count, dir)
