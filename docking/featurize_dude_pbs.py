@@ -7,6 +7,7 @@ import gzip
 import cPickle as pickle
 import math
 from vs_utils.features.nnscore import Binana
+from vs_utils.utils.nnscore_pdb import PDB
 from vs_utils.utils.nnscore_pdb import MultiStructure 
 from vs_utils.utils.nnscore_utils import pdbqt_to_pdb
 
@@ -52,6 +53,12 @@ def featurize_dude(dude_dir, target, pickle_dir, num_jobs):
 
   num_per_job = int(math.ceil(len(actives)/float(num_jobs)))
   print "Number per job: %d" % num_per_job
+  protein_pdb_path = "/home/rbharath/DUD-E/aa2ar/receptor_hyd.pdb"
+  protein_pdbqt_path = "/home/rbharath/DUD-E/aa2ar/receptor_hyd.pdbqt"
+
+  print "About to load protein from input files"
+  protein_pdb_obj = PDB()
+  protein_pdb_obj.load_from_files(protein_pdb_path, protein_pdbqt_path)
 
   binana = Binana()
   feature_len = binana.num_features()
@@ -70,7 +77,10 @@ def featurize_dude(dude_dir, target, pickle_dir, num_jobs):
     structures.load_from_files(compound_pdb, compound_pdbqt)
 
     vectors = []
-    for index, structure in enumerate(structures.molecules):
+    for key in sorted(structures.molecules.keys()):
+      structure = structures.molecules[key]
+      print "type(structure)"
+      print type(structure)
       vectors.append(binana.compute_input_vector(structure,
           protein_pdb_obj))
     feature_vectors[compound_name] = vectors
