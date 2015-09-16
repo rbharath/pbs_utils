@@ -3,6 +3,7 @@ PBS interface for preprocessing DUD-E pdb files for docking.
 """
 import argparse
 import os
+import os.path
 from vs_utils.utils.nnscore_utils import hydrogenate_and_compute_partial_charges
 
 def parse_args(input_args=None):
@@ -12,11 +13,6 @@ def parse_args(input_args=None):
       help="Directory containing DUD-E data.")
   parser.add_argument("--target", required=1,
                       help="Name of DUD-E target.")
-  #parser.add_argument("--script-template", default="script%d.pbs",
-  #                    help="Template for script name. Must have one "
-  #                    "string-substitutable entry for job number.")
-  #parser.add_argument("--num-jobs", required=1, type=int,
-  #                    help='Number of PBS jobs to launch.')
   return parser.parse_args(input_args)
 
 def preprocess_dude(dude_dir, target):
@@ -33,34 +29,46 @@ def preprocess_dude(dude_dir, target):
   decoys = decoys[:1]
   hydrogenate_and_compute_partial_charges(
       receptor, "pdb", target_dir)
-  conf = """
-  receptor = receptor_hyd.pdbqt
-  ligand = %s 
+  receptor_pdbqt = os.path.join(target_dir, "receptor_hyd.pdbqt")
+  # TODO(rbharath): This is a bit of an ugly kludge.
+  conf = """receptor = %s 
+ligand = %s 
 
-  center_x = 0
-  center_y = 0
-  center_z = 0
+center_x = 0
+center_y = 0
+center_z = 0
 
-  size_x = 63
-  size_y = 63
-  size_z = 63
+size_x = 63
+size_y = 63
+size_z = 63
 
-  exhaustiveness = 30
-  """
+exhaustiveness = 30"""
   for active in actives:
     active_file = os.path.join(actives_dir, active)
+    active_base = os.path.basename(active_file).split(".")[0]
+    conf_active_file = os.path.join(actives_dir,
+        "conf_%s.txt" % active_base)
     print active_file
+    print conf_active_file
     hydrogenate_and_compute_partial_charges(
         active_file, "pdb", actives_dir, rigid=False)
-    active_conf = conf % active_file
+    active_conf = conf % (receptor_pdbqt, active_file)
+    with open(conf_active_file, "wb") as f:
+      f.write(active_conf)
     print active_conf
   for decoy in decoys:
     decoy_file = os.path.join(decoys_dir, decoy)
+    decoy_base = os.path.basename(decoy_file).split(".")[0]
+    conf_decoy_file = os.path.join(decoys_dir,
+        "conf_%s.txt" % decoy_base)
     print decoy_file
+    print conf_decoy_file
     hydrogenate_and_compute_partial_charges(
         decoy_file, "pdb", decoys_dir, rigid=False)
-    decoy_conf = conf % decoy_file
-    print deocy_conf
+    decoy_conf = conf % (receptor_pdbqt, decoy_file)
+    with open(conf_decoy_file, "wb") as f:
+      f.write(decoy_conf)
+    print decoy_conf
 
 
 if __name__ == '__main__':
