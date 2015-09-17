@@ -45,27 +45,33 @@ size_z = 63
 exhaustiveness = 30"""
   for active in actives:
     active_file = os.path.join(actives_dir, active)
-    active_base = os.path.basename(active_file).split(".")[0]
+    active_base = active.split(".")[0]
+    active_output = os.path.join(actives_dir, "%s_hyd.pdbqt" %
+        active_base)
     conf_active_file = os.path.join(actives_dir,
         "conf_%s.txt" % active_base)
     print active_file
+    print active_output
     print conf_active_file
     hydrogenate_and_compute_partial_charges(
         active_file, "pdb", actives_dir, rigid=False)
-    active_conf = conf % (receptor_pdbqt, active_file)
+    active_conf = conf % (receptor_pdbqt, active_output)
     with open(conf_active_file, "wb") as f:
       f.write(active_conf)
     print active_conf
   for decoy in decoys:
     decoy_file = os.path.join(decoys_dir, decoy)
     decoy_base = os.path.basename(decoy_file).split(".")[0]
+    decoy_output = os.path.join(decoys_dir, "%s_hyd.pdbqt" %
+        decoy_base)
     conf_decoy_file = os.path.join(decoys_dir,
         "conf_%s.txt" % decoy_base)
     print decoy_file
+    print decoy_output
     print conf_decoy_file
     hydrogenate_and_compute_partial_charges(
         decoy_file, "pdb", decoys_dir, rigid=False)
-    decoy_conf = conf % (receptor_pdbqt, decoy_file)
+    decoy_conf = conf % (receptor_pdbqt, decoy_output)
     with open(conf_decoy_file, "wb") as f:
       f.write(decoy_conf)
     print decoy_conf
