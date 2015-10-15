@@ -5,8 +5,10 @@ import argparse
 import os
 import re
 import cPickle as pickle
+import mdtraj as md
 from vs_utils.features.nnscore import Binana
 from vs_utils.utils.nnscore_pdb import PDB
+from rdkit import Chem
 
 def parse_args(input_args=None):
   """Parse command-line arguments."""
@@ -23,7 +25,7 @@ def featurize_job(pdb_directories, pickle_out):
   binana = Binana()
   # See features/tests/nnscore_test.py:TestBinana.testComputeInputVector
   # for derivation.
-  feature_len = binana_num_features()
+  feature_len = binana.num_features()
   feature_vectors = {}
   for count, dir in enumerate(pdb_directories):
     print "\nprocessing %d-th pdb %s" % (count, dir)
@@ -46,6 +48,7 @@ def featurize_job(pdb_directories, pickle_out):
     if (not ligand_pdb or not ligand_pdbqt or not protein_pdb or not
         protein_pdbqt):
         raise ValueError("Required files not present for %s" % dir)
+
     ligand_pdb_path = os.path.join(dir, ligand_pdb)
     ligand_pdbqt_path = os.path.join(dir, ligand_pdbqt)
     protein_pdb_path = os.path.join(dir, protein_pdb)
@@ -60,13 +63,26 @@ def featurize_job(pdb_directories, pickle_out):
     protein_pdb_obj.load_from_files(protein_pdb_path, protein_pdbqt_path)
 
     print "About to generate feature vector."
-    vector = binana.compute_input_vector(ligand_pdb_obj,
+    features = binana.compute_input_vector(ligand_pdb_obj,
         protein_pdb_obj)
-    feature_vectors[dir] = vector
-    if len(vector) != feature_len:
+    if len(features) != feature_len:
       raise ValueError("Feature length incorrect on %s" % dir)
     print "Feature vector generated correctly."
 
+    print "About to compute ligand smiles string."
+    ligand_mol = Chem.MolFromPDBFile(ligand_pdb_path)
+    # TODO(rbharath): Why does this fail sometimes?
+    if ligand_mol is None:
+      continue
+    smiles = Chem.MolToSmiles(ligand_mol)
+
+    print "About to compute sequence."
+    protein = md.load(protein_pdb_path)
+    seq = [r.name for r in protein.top.residues] 
+
+    # Write the computed quantities
+    feature_vectors[dir] = (features, smiles, seq)
+  print "About to write pickle to " + pickle_out
   with open(pickle_out, "wb") as f:
     pickle.dump(feature_vectors, f)
 
