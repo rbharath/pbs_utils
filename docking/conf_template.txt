@@ -1,0 +1,12 @@
+receptor = %s 
+ligand = %s 
+
+center_x = 0
+center_y = 0
+center_z = 0
+
+size_x = 63
+size_y = 63
+size_z = 63
+
+exhaustiveness = 30
