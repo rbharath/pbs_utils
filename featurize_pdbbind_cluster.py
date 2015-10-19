@@ -20,10 +20,12 @@ def parse_args(input_args=None):
                       help='Number of PBS jobs to launch.')
   parser.add_argument('--pickle-dir', required=1,
                       help='Directory to output pickled featured vectors.')
+  parser.add_argument('--queue-system', required=1,
+                      help='Choose slurm or pbs')
   return parser.parse_args(input_args)
 
 def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
-    pickle_dir):
+    pickle_dir, queue_system):
   """Featurize all entries in pdbbind_dir and write features to pickle_out
 
   pdbbind_dir should be a dir, with K subdirs, one for each protein-ligand
@@ -61,17 +63,35 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
     script_loc = os.path.join(script_dir, script_template % job)
     print "script_loc: "
     print script_loc
-    print "Writing script!"
-    with open(script_loc, "w") as f:
-      f.write(command)
+   
 
-    qsub_command = ["qsub", "-j", "oe", "-q", "MP", "-l", "nodes=1:ppn=1", script_loc]
-    print qsub_command
-    print "launching job"
-    subprocess.Popen(qsub_command)
+    if queue_system == "pbs":
+      print "Writing pbs script!"
+      with open(script_loc, "w") as f:
+        f.write(command)
+      qsub_command = ["qsub", "-j", "oe", "-q", "MP", "-l", "nodes=1:ppn=1", script_loc]
+      print qsub_command
+      print "launching job"
+      subprocess.Popen(qsub_command)
+    elif queue_system == "slurm":
+      print "Writing SLURM script!"
+      with open(script_loc, "w") as f:
+        f.write("#!/bin/bash\n")
+        f.write("#SBATCH --job-name=deep1\n")
+        f.write("#SBATCH -c 1 # Number of cores\n")
+        f.write("#SBATCH --time=48:00:00\n")
+        f.write("#SBATCH --qos=normal\n")
+        f.write("#SBATCH --mem=4000\n\n")
+        f.write(command)
+        slurm_command = ["sbatch", script_loc]
+        print slurm_command
+        print "launching job"
+        subprocess.Popen(slurm_command)
+
+
 
 
 if __name__ == '__main__':
   args = parse_args()
   featurize_pdbbind(args.pdbbind_dir, args.script_dir,
-      args.script_template, args.num_jobs, args.pickle_dir)
+      args.script_template, args.num_jobs, args.pickle_dir, args.queue_system)
