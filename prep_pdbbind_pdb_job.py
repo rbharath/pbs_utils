@@ -4,7 +4,7 @@ One job invocation for prep-pdbbind.
 import argparse
 import os
 import math
-#from vs_utils.utils.nnscore_utils import hydrogenate_and_compute_partial_charges
+from vs_utils.utils.nnscore_utils import hydrogenate_and_compute_partial_charges
 
 def parse_args(input_args=None):
   """Parse command-line arguments."""
@@ -31,10 +31,10 @@ def pdbbind_job(pdb_directories):
     protein_file = os.path.join(dirname, protein)
 
     print "About to preprocess ligand."
-    #hydrogenate_and_compute_partial_charges(ligand_file, "mol2", dirname)
+    hydrogenate_and_compute_partial_charges(ligand_file, "mol2", dirname)
 
     print "About to preprocess protein."
-    #hydrogenate_and_compute_partial_charges(protein_file, "pdb", dirname)
+    hydrogenate_and_compute_partial_charges(protein_file, "pdb", dirname)
 
 if __name__ == '__main__':
   args = parse_args()
