@@ -44,19 +44,17 @@ def generate_dataset(pdbbind_label_file, feature_files, out_csv):
       for key, value in contents.iteritems():
         name = os.path.basename(key)
         feature_dict[name] = value
-  print "len(labels.keys()): " + str(len(labels.keys()))
-  print "len(feature_dict.keys()): " + str(len(feature_dict.keys()))
   # TODO(bharath): There's a discrepancy between the number of labels and
   # keys. However, I've verified that no ValueErrors are thrown. Understand
   # the cause of this discrepancy (10656 labels vs 10605 features)
   #assert len(labels.keys()) == len(feature_dict.keys())
   with open(out_csv, "wb") as csvfile:
-    writer = csv.writer(csvfile, delimiter=",")
-    writer.writerow(["Label", "Features"])
+    writer = csv.writer(csvfile, delimiter="\t")
+    writer.writerow(["Smiles", "Sequence", "Label", "Features"])
     for key in feature_dict:
       label = labels[key]
-      features = feature_dict[key]
-      writer.writerow([label] + features)
+      (features, smiles, seq) = feature_dict[key]
+      writer.writerow([smiles, ",".join(seq), label, ",".join([str(elem) for elem in list(features)])])
 
 if __name__ == '__main__':
   args = parse_args()
