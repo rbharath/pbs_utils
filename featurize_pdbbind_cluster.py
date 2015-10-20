@@ -47,7 +47,7 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
   num_per_job = int(math.ceil(len(subdirs)/float(num_jobs)))
   print "Number per job: %d" % num_per_job
 
-  for job in range(num_jobs):
+  for i, job in enumerate(range(num_jobs)):
     job_dirs = subdirs[job*num_per_job:(job+1)*num_per_job]
     job_dirs = [os.path.join(pdbbind_dir, dirname) for dirname in job_dirs]
     print "About to process following subdirectories in job %d" % job
@@ -55,7 +55,8 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
 
     # TODO(rbharath): This is horrible. Clean this script up...
     pickle_out = os.path.join(pickle_dir, "features%d.p" % job)
-    command = " ".join(["python", "/home/rbharath/pbs_utils/featurize_pdbbind_pbs_job.py",
+    #TODO(enf): the path needs to be user-independent 
+    command = " ".join(["python", "~/software/pbs_utils/featurize_pdbbind_cluster_job.py",
         "--pdb-directories"] + job_dirs + ["--pickle-out", pickle_out, "\n"])
 
     print "command: "
@@ -77,11 +78,17 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
       print "Writing SLURM script!"
       with open(script_loc, "w") as f:
         f.write("#!/bin/bash\n")
-        f.write("#SBATCH --job-name=deep1\n")
-        f.write("#SBATCH -c 1 # Number of cores\n")
-        f.write("#SBATCH --time=48:00:00\n")
+        f.write("#SBATCH --output=out%d.out\n" %i)
+        f.write("#SBATCH --error=out%d.err\n" %i)
+        f.write("#SBATCH  -p normal\n")
+        f.write("#SBATCH --mail-type=ALL")
+        f.write("#SBATCH --mail=enf@stanford.edu")
+        f.write("#SBATCH --job-name=deep%d\n" %i)
+        f.write("#SBATCH -n 1\n")
+        f.write("#SBATCH --time=4:00:00\n")
         f.write("#SBATCH --qos=normal\n")
-        f.write("#SBATCH --mem=4000\n\n")
+        f.write("#SBATCH --mem-per-cpu=4000\n")
+        #f.write("#SBATCH --ntasks-per-node=1\n\n")
         f.write(command)
         slurm_command = ["sbatch", script_loc]
         print slurm_command
