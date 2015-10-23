@@ -22,10 +22,18 @@ def parse_args(input_args=None):
                       help='Directory to output pickled featured vectors.')
   parser.add_argument('--queue-system', required=1,
                       help='Choose slurm or pbs')
+  parser.add_argument('--featurization-type', required=1,
+                      help='Choose fingerprint or 3d_grid')
+  parser.add_argument('--box-width', required=0,
+                      help='Input box width in Angstroms, default=16')
+  parser.add_argument('--voxel-width', required=0,
+                      help='Input voxel width in Angstroms, default=0.5')
+  parser.add_argument('--tmp-dir', required=0,
+                      help='Temporary directory for saving files')
   return parser.parse_args(input_args)
 
 def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
-    pickle_dir, queue_system):
+    pickle_dir, queue_system, featurization_type, box_width, voxel_width):
   """Featurize all entries in pdbbind_dir and write features to pickle_out
 
   pdbbind_dir should be a dir, with K subdirs, one for each protein-ligand
@@ -57,7 +65,8 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
     pickle_out = os.path.join(pickle_dir, "features%d.p" % job)
     #TODO(enf): the path needs to be user-independent 
     command = " ".join(["python", "~/software/pbs_utils/featurize_pdbbind_cluster_job.py",
-        "--pdb-directories"] + job_dirs + ["--pickle-out", pickle_out, "\n"])
+        "--pdb-directories"] + job_dirs + ["--featurization-type", featurization_type] 
+        + ["--box-width", box_width] + ["--voxel-width", voxel_width] + ["--tmp-dir", script_dir] + ["--pickle-out", pickle_out, "\n"])
 
     print "command: "
     print command
@@ -80,14 +89,14 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
         f.write("#!/bin/bash\n")
         f.write("#SBATCH --output=out%d.out\n" %i)
         f.write("#SBATCH --error=out%d.err\n" %i)
-        f.write("#SBATCH  -p normal\n")
+        f.write("#SBATCH  -p owners\n")
         f.write("#SBATCH --mail-type=ALL")
         f.write("#SBATCH --mail=enf@stanford.edu")
         f.write("#SBATCH --job-name=deep%d\n" %i)
         f.write("#SBATCH -n 1\n")
         f.write("#SBATCH --time=4:00:00\n")
         f.write("#SBATCH --qos=normal\n")
-        f.write("#SBATCH --mem-per-cpu=4000\n")
+        #f.write("#SBATCH --mem-per-cpu=4000\n")
         #f.write("#SBATCH --ntasks-per-node=1\n\n")
         f.write(command)
         slurm_command = ["sbatch", script_loc]
@@ -101,4 +110,4 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
 if __name__ == '__main__':
   args = parse_args()
   featurize_pdbbind(args.pdbbind_dir, args.script_dir,
-      args.script_template, args.num_jobs, args.pickle_dir, args.queue_system)
+      args.script_template, args.num_jobs, args.pickle_dir, args.queue_system, args.featurization_type, args.box_width, args.voxel_width)
