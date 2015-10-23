@@ -8,6 +8,7 @@ import math
 import subprocess
 import cPickle as pickle
 import gzip
+import pandas as pd
 
 def parse_args(input_args=None):
   """Parse command-line arguments."""
@@ -60,7 +61,8 @@ def write_pkl_gz(feature_dict, labels, out):
       # remove this line
       smiles, sequence = None, None
       outputs.append({"smiles": smiles, "sequence": sequence, "label": label, "features": features})
-    pickle.dump(outputs, f)
+    df = pd.DataFrame(outputs)
+    pickle.dump(df, f)
 
 def generate_dataset(pdbbind_label_file, feature_files, out, output_type):
   """Generate dataset file."""
