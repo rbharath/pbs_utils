@@ -43,12 +43,15 @@ def extract_labels(pdbbind_label_file):
 def write_csv(feature_dict, labels, out):
   """Write CSV output."""
   with open(out, "wb") as csvfile:
+    # We use tab delimiter since features is a float array represented in the
+    # form 3.5,4.3,etc.
     writer = csv.writer(csvfile, delimiter="\t")
     writer.writerow(["Smiles", "Sequence", "Label", "Features"])
     for key in feature_dict:
       label = labels[key]
       (features, smiles, seq) = feature_dict[key]
-      writer.writerow([smiles, ",".join(seq), label, ",".join([str(elem) for elem in list(features)])])
+      features_str = ",".join([str(elem) for elem in list(features)])
+      writer.writerow([smiles, ",".join(seq), label, features_str])
 
 def write_pkl_gz(feature_dict, labels, out):
   """Write pkl.gz output."""
