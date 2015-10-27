@@ -99,6 +99,9 @@ def featurize_fingerprint(pdb_directories, pickle_out):
 def featurize_3d_grid(pdb_directories, pickle_out, box_width, voxel_width, tmp_dir):
   feature_vectors = {}
   for count, pdb_dir in enumerate(pdb_directories):
+    
+    #TODO(evanfeinberg): Re-factor common code between two featurization functions into a 
+      #separate function
     print "\nprocessing %d-th pdb %s" % (count, pdb_dir)
 
     print "About to extract ligand and protein input files"

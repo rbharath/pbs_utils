@@ -96,8 +96,6 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
         f.write("#SBATCH -n 1\n")
         f.write("#SBATCH --time=4:00:00\n")
         f.write("#SBATCH --qos=normal\n")
-        #f.write("#SBATCH --mem-per-cpu=4000\n")
-        #f.write("#SBATCH --ntasks-per-node=1\n\n")
         f.write(command)
         slurm_command = ["sbatch", script_loc]
         print slurm_command
