@@ -37,13 +37,13 @@ def featurize_fingerprint(pdb_directories, pickle_out):
   # for derivation.
   feature_len = binana.num_features()
   feature_vectors = {}
-  for count, dir in enumerate(pdb_directories):
+  for count, pdb_dir in enumerate(pdb_directories):
     print "\nprocessing %d-th pdb %s" % (count, dir)
 
     print "About to extract ligand and protein input files"
     ligand_pdb, ligand_pdbqt = None, None
     protein_pdb, protein_pdbqt = None, None
-    for f in os.listdir(dir):
+    for f in os.listdir(pdb_dir):
       if re.search("_ligand_hyd.pdb$", f):
         ligand_pdb = f
       elif re.search("_ligand_hyd.pdbqt$", f):
@@ -57,12 +57,12 @@ def featurize_fingerprint(pdb_directories, pickle_out):
     print (ligand_pdb, ligand_pdbqt, protein_pdb, protein_pdbqt)
     if (not ligand_pdb or not ligand_pdbqt or not protein_pdb or not
         protein_pdbqt):
-        raise ValueError("Required files not present for %s" % dir)
+        raise ValueError("Required files not present for %s" % pdb_dir)
 
-    ligand_pdb_path = os.path.join(dir, ligand_pdb)
-    ligand_pdbqt_path = os.path.join(dir, ligand_pdbqt)
-    protein_pdb_path = os.path.join(dir, protein_pdb)
-    protein_pdbqt_path = os.path.join(dir, protein_pdbqt)
+    ligand_pdb_path = os.path.join(pdb_dir, ligand_pdb)
+    ligand_pdbqt_path = os.path.join(pdb_dir, ligand_pdbqt)
+    protein_pdb_path = os.path.join(pdb_dir, protein_pdb)
+    protein_pdbqt_path = os.path.join(pdb_dir, protein_pdbqt)
 
     print "About to load ligand from input files"
     ligand_pdb_obj = PDB()
@@ -76,7 +76,7 @@ def featurize_fingerprint(pdb_directories, pickle_out):
     features = binana.compute_input_vector(ligand_pdb_obj,
         protein_pdb_obj)
     if len(features) != feature_len:
-      raise ValueError("Feature length incorrect on %s" % dir)
+      raise ValueError("Feature length incorrect on %s" % pdb_dir)
     print "Feature vector generated correctly."
 
     print "About to compute ligand smiles string."
@@ -91,20 +91,20 @@ def featurize_fingerprint(pdb_directories, pickle_out):
     seq = [r.name for r in protein.top.residues] 
 
     # Write the computed quantities
-    feature_vectors[dir] = (features, smiles, seq)
+    feature_vectors[pdb_dir] = (features, smiles, seq)
   print "About to write pickle to " + pickle_out
   with open(pickle_out, "wb") as f:
     pickle.dump(feature_vectors, f)
 
 def featurize_3d_grid(pdb_directories, pickle_out, box_width, voxel_width, tmp_dir):
   feature_vectors = {}
-  for count, dir in enumerate(pdb_directories):
-    print "\nprocessing %d-th pdb %s" % (count, dir)
+  for count, pdb_dir in enumerate(pdb_directories):
+    print "\nprocessing %d-th pdb %s" % (count, pdb_dir)
 
     print "About to extract ligand and protein input files"
     ligand_pdb, ligand_pdbqt = None, None
     protein_pdb, protein_pdbqt = None, None
-    for f in os.listdir(dir):
+    for f in os.listdir(pdb_dir):
       if re.search("_ligand_hyd.pdb$", f):
         ligand_pdb = f
       elif re.search("_ligand_hyd.pdbqt$", f):
@@ -118,12 +118,12 @@ def featurize_3d_grid(pdb_directories, pickle_out, box_width, voxel_width, tmp_d
     print (ligand_pdb, ligand_pdbqt, protein_pdb, protein_pdbqt)
     if (not ligand_pdb or not ligand_pdbqt or not protein_pdb or not
         protein_pdbqt):
-        raise ValueError("Required files not present for %s" % dir)
+        raise ValueError("Required files not present for %s" % pdb_dir)
 
-    ligand_pdb_path = os.path.join(dir, ligand_pdb)
-    ligand_pdbqt_path = os.path.join(dir, ligand_pdbqt)
-    protein_pdb_path = os.path.join(dir, protein_pdb)
-    protein_pdbqt_path = os.path.join(dir, protein_pdbqt)
+    ligand_pdb_path = os.path.join(pdb_dir, ligand_pdb)
+    ligand_pdbqt_path = os.path.join(pdb_dir, ligand_pdbqt)
+    protein_pdb_path = os.path.join(pdb_dir, protein_pdb)
+    protein_pdbqt_path = os.path.join(pdb_dir, protein_pdbqt)
 
     tmp_dir = os.path.join(tmp_dir, protein_pdb)
     if not os.path.exists(tmp_dir): os.makedirs(tmp_dir)
@@ -133,12 +133,24 @@ def featurize_3d_grid(pdb_directories, pickle_out, box_width, voxel_width, tmp_d
     grid_pickle = os.path.join(tmp_dir, "grid.pickle")
 
     p = PDBTransformer()
-    p.transform(protein_pdb_path, protein_pdbqt_path, ligand_pdb_path, ligand_pdbqt_path, system_pdb, box_pdb, box_pickle, box_x = box_width, box_y = box_width, box_z = box_width)
+    p.transform(protein_pdb_path, protein_pdbqt_path, ligand_pdb_path, ligand_pdbqt_path, 
+                system_pdb, box_pdb, box_pickle, box_x = box_width, box_y = box_width, box_z = box_width)
 
     g = GridGenerator()
     grid = g.transform(box_pickle, box_width, box_width, box_width, voxel_width, grid_pickle, num_features=3)
 
-    feature_vectors[dir] = grid
+    print "About to compute sequence."
+    protein = md.load(protein_pdb_path)
+    seq = [r.name for r in protein.top.residues] 
+
+    print "About to compute ligand smiles string."
+    ligand_mol = Chem.MolFromPDBFile(ligand_pdb_path)
+    # TODO(rbharath): Why does this fail sometimes?
+    if ligand_mol is None:
+      continue
+    smiles = Chem.MolToSmiles(ligand_mol)
+
+    feature_vectors[pdb_dir] = (grid, smiles, seq)
   print "About to write pickle to " + pickle_out
   with open(pickle_out, "wb") as f:
     pickle.dump(feature_vectors, f)
