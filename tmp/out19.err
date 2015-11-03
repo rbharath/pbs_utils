@@ -1,9 +1,0 @@
-/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1464  N   SER A 187      22.844  -2.712  -5.371  1.00  0.00           N  , ATOM   1463  CD2 LEU A 187      18.106  -1.316  -3.696  1.00  0.00           C  )
-  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
-/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2763  H   SER A 187      23.249  -2.261  -4.595  1.00  0.00           H  , ATOM   2762  H   LEU A 187      22.145  -3.027  -2.058  1.00  0.00           H  )
-  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
-/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1464  N   SER A 187      12.989  -4.328  49.835  1.00  0.00           N  , ATOM   1463  CD2 LEU A 187      14.465   0.448  48.334  1.00  0.00           C  )
-  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
-/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2762  H   SER A 187      13.843  -4.612  50.234  1.00  0.00           H  , ATOM   2761  H   LEU A 187      15.777  -2.676  50.736  1.00  0.00           H  )
-  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
-slurmstepd: error: Exceeded step memory limit at some point.
