@@ -9,6 +9,7 @@ import subprocess
 import cPickle as pickle
 import gzip
 import pandas as pd
+import multiprocessing as mp
 
 def parse_args(input_args=None):
   """Parse command-line arguments."""
@@ -22,6 +23,9 @@ def parse_args(input_args=None):
   parser.add_argument("--output_type", default="csv",
                       choices=["csv", "pkl.gz"],
                       help="Type of output file.")
+  parser.add_argument("--parallel", default=False,
+                      type=bool,
+                      help="Do processing in parallel")
   return parser.parse_args(input_args)
 
 def extract_labels(pdbbind_label_file):
@@ -58,25 +62,47 @@ def write_pkl_gz(feature_dict, labels, out):
   with gzip.open(out, "wb") as f:
     outputs = []
     for key in feature_dict:
-      label = labels[key]
-      features = feature_dict[key]
-      # TODO(rbharath): Once smiles/sequences are added into 3D grid data,
-      # remove this line
-      smiles, sequence = None, None
+      labels_key = key.split("_")[0]
+      label = labels[labels_key]
+      features, smiles, sequence = feature_dict[key]
       outputs.append({"smiles": smiles, "sequence": sequence, "label": label, "features": features})
     df = pd.DataFrame(outputs)
     pickle.dump(df, f)
 
-def generate_dataset(pdbbind_label_file, feature_files, out, output_type):
+def read_feature_file(feature_file, feature_dict = {}):
+  print("Currently reading %s" %feature_file)
+  with gzip.open(feature_file, "rb") as features:
+    contents = pickle.load(features)
+    for index, (key, value) in enumerate(contents.iteritems()):
+      name = os.path.basename(key)
+      feature_dict[name] = value
+  return(feature_dict)
+
+'''
+http://stackoverflow.com/questions/38987/how-can-i-merge-two-python-dictionaries-in-a-single-expression
+'''
+def merge_dicts(*dict_args):
+    '''
+    Given any number of dicts, shallow copy and merge into a new dict,
+    precedence goes to key value pairs in latter dicts.
+    '''
+    result = {}
+    for dictionary in dict_args:
+        result.update(dictionary)
+    return result
+
+def generate_dataset(pdbbind_label_file, feature_files, out, output_type, parallel):
   """Generate dataset file."""
   labels = extract_labels(pdbbind_label_file)
-  feature_dict = {}
-  for feature_file in feature_files:
-    with open(feature_file, "rb") as features:
-      contents = pickle.load(features)
-      for key, value in contents.iteritems():
-        name = os.path.basename(key)
-        feature_dict[name] = value
+  if not parallel:
+    feature_dict = {}
+    for feature_file in feature_files:
+      feature_dict = read_feature_file(feature_file, feature_dict)
+  else:
+    pool = mp.Pool(mp.cpu_count())
+    feature_dicts = pool.map(read_feature_file, feature_files)
+    feature_dict = merge_dicts(*feature_dicts)
+    pool.terminate()
   if output_type == "csv":
     write_csv(feature_dict, labels, out)
   elif output_type == "pkl.gz":
@@ -85,4 +111,4 @@ def generate_dataset(pdbbind_label_file, feature_files, out, output_type):
 
 if __name__ == '__main__':
   args = parse_args()
-  generate_dataset(args.pdbbind_label_file, args.feature_files, args.out, args.output_type)
+  generate_dataset(args.pdbbind_label_file, args.feature_files, args.out, args.output_type, args.parallel)

@@ -1,0 +1,270 @@
+[01:13:20] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:20] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:21] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:21] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:22] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:22] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:22] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:23] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:23] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:24] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:24] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:24] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:25] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:25] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:25] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:26] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:26] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:27] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:27] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:27] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:13:28] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:17:53] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:54] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:55] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:55] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:56] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:57] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:57] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:58] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:58] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:17:59] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:00] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:01] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:01] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:02] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:02] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:03] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:04] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:04] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:05] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:06] Explicit valence for atom # 29 H, 2, is greater than permitted
+[01:18:06] Explicit valence for atom # 29 H, 2, is greater than permitted
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    196  N   SER L  27      25.975  26.576  51.296  1.00  0.00           N  , ATOM    195  NE2 GLN L  27      20.302  28.415  52.729  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2019  N   PRO H  52      17.821  22.373  78.450  1.00  0.00           N  , ATOM   2018  CD1 ILE H  52      20.978  25.200  73.955  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2264  N   ASN H  82       0.397  19.080  69.369  1.00  0.00           N  , ATOM   2263  CD2 LEU H  82       1.803  17.703  66.664  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2272  N   SER H  82      -2.939  19.325  67.824  1.00  0.00           N  , ATOM   2271  ND2 ASN H  82      -1.542  20.705  72.353  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2278  N   LEU H  82      -3.003  16.969  66.218  1.00  0.00           N  , ATOM   2277  OG  SER H  82      -4.005  21.659  66.690  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2431  N   GLY H 100      34.271   9.758  77.711  1.00  0.00           N  , ATOM   2430  CH2 TRP H 100      41.779   7.880  75.148  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2435  N   TRP H 100      31.391  11.683  78.891  1.00  0.00           N  , ATOM   2434  O   GLY H 100      32.004  10.959  76.844  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2449  N   LEU H 100      31.204  14.355  79.321  1.00  0.00           N  , ATOM   2448  CH2 TRP H 100      31.344   6.697  79.312  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2457  N   GLY H 100      32.715  16.197  78.138  1.00  0.00           N  , ATOM   2456  CD2 LEU H 100      29.648  15.097  82.614  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2461  N   LYS H 100      33.472  18.749  75.630  1.00  0.00           N  , ATOM   2460  O   GLY H 100      31.622  18.383  76.835  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2470  N   PRO H 100      30.550  19.818  73.951  1.00  0.00           N  , ATOM   2469  NZ  LYS H 100      35.782  21.291  69.988  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2477  N   ILE H 100      29.108  18.435  70.891  1.00  0.00           N  , ATOM   2476  CD  PRO H 100      30.135  21.041  74.662  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2485  N   GLY H 100      27.080  18.909  69.113  1.00  0.00           N  , ATOM   2484  CD1 ILE H 100      29.154  14.480  68.972  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2489  N   ALA H 100      26.037  17.124  67.021  1.00  0.00           N  , ATOM   2488  O   GLY H 100      24.045  17.820  67.792  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2494  N   PHE H 100      23.937  14.171  67.102  1.00  0.00           N  , ATOM   2493  CB  ALA H 100      26.536  15.162  65.660  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3372  H   SER L  27      26.019  27.391  50.745  1.00  0.00           H  , ATOM   3371  H   GLN L  27      19.954  29.179  53.244  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3865  H   ASN H  82       0.989  19.849  69.204  1.00  0.00           H  , ATOM   3864  H   LEU H  82       2.546  16.579  71.396  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3868  H   SER H  82      -3.462  19.452  68.648  1.00  0.00           H  , ATOM   3867  H   ASN H  82      -1.172  20.825  73.258  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3870  H   LEU H  82      -3.268  16.863  67.160  1.00  0.00           H  , ATOM   3869  H   SER H  82      -3.919  22.515  66.242  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3904  H   GLY H 100      34.511   8.806  77.781  1.00  0.00           H  , ATOM   3903  H   TRP H 100      38.444   6.056  73.385  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3905  H   TRP H 100      31.614  11.716  79.849  1.00  0.00           H  , ATOM   3904  H   GLY H 100      34.511   8.806  77.781  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3907  H   LEU H 100      32.049  13.943  79.028  1.00  0.00           H  , ATOM   3906  H   TRP H 100      28.857   7.723  76.105  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3908  H   GLY H 100      32.589  15.261  77.862  1.00  0.00           H  , ATOM   3907  H   LEU H 100      32.049  13.943  79.028  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3909  H   LYS H 100      34.417  18.515  75.481  1.00  0.00           H  , ATOM   3908  H   GLY H 100      32.589  15.261  77.862  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3913  H   ILE H 100      28.362  17.915  71.268  1.00  0.00           H  , ATOM   3912  H   LYS H 100      35.418  22.085  69.461  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3914  H   GLY H 100      26.999  18.928  70.094  1.00  0.00           H  , ATOM   3913  H   ILE H 100      28.362  17.915  71.268  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3915  H   ALA H 100      27.001  17.306  66.938  1.00  0.00           H  , ATOM   3914  H   GLY H 100      26.999  18.928  70.094  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3916  H   PHE H 100      23.722  14.136  66.142  1.00  0.00           H  , ATOM   3915  H   ALA H 100      27.001  17.306  66.938  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+[01:31:29] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:30] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:31] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:32] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:33] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:34] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:35] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:35] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:36] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:37] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:38] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:39] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:40] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:40] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:41] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:42] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:43] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:44] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:45] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:46] Explicit valence for atom # 9 Al, 7, is greater than permitted
+[01:31:46] Explicit valence for atom # 9 Al, 7, is greater than permitted
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1464  N   SER A 187      36.807  -8.268  42.587  1.00  0.00           N  , ATOM   1463  CD2 LEU A 187      38.913  -5.685  46.529  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2762  H   SER A 187      36.517  -9.072  43.076  1.00  0.00           H  , ATOM   2761  H   LEU A 187      36.008  -8.779  45.868  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM      6  N   ASN A  15      24.641  13.056   5.795  1.00  0.00           N  , ATOM      5  CB  ALA A  15      21.716  12.651   7.068  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    162  N   THR A  48      31.620  15.663  18.821  1.00  0.00           N  , ATOM    161  CG2 VAL A  48      28.635  17.853  18.878  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    169  N   ARG A  48      30.972  13.464  21.590  1.00  0.00           N  , ATOM    168  CG2 THR A  48      32.671  12.968  17.517  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    180  N   GLY A  48      32.715  11.705  23.387  1.00  0.00           N  , ATOM    179  NH2 ARG A  48      26.699  12.028  26.606  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    184  N   ALA A  48      32.379   8.457  22.300  1.00  0.00           N  , ATOM    183  O   GLY A  48      32.972  10.355  21.178  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    290  N   THR A  65      12.514  14.695  18.459  1.00  0.00           N  , ATOM    289  CB  ALA A  65      12.399  17.428  20.235  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    575  N   GLY A 120      26.550  27.621  -0.291  1.00  0.00           N  , ATOM    574  ND2 ASN A 120      31.073  29.897   0.077  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    579  N   SER A 120      26.844  25.483  -2.966  1.00  0.00           N  , ATOM    578  O   GLY A 120      26.070  24.873  -0.938  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    968  N   GLY A 192      17.109  34.923   8.389  1.00  0.00           N  , ATOM    967  CE  MET A 192      17.169  38.038  12.304  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    972  N   ARG A 192      13.823  33.596   9.315  1.00  0.00           N  , ATOM    971  O   GLY A 192      15.875  32.783   9.600  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1123  N   VAL A 217      13.894  40.382  12.523  1.00  0.00           N  , ATOM   1122  ND2 ASN A 217      16.701  44.925  12.927  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1130  N   GLN A 217      12.047  41.287   9.662  1.00  0.00           N  , ATOM   1129  CG2 VAL A 217      11.414  38.495  12.298  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1139  N   SER A 217       8.842  42.201   8.238  1.00  0.00           N  , ATOM   1138  NE2 GLN A 217      13.299  44.483  10.888  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1145  N   ASN A 217       8.912  40.528   5.950  1.00  0.00           N  , ATOM   1144  OG  SER A 217       6.835  43.176   6.253  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1153  N   GLY A 217      10.037  38.196   6.834  1.00  0.00           N  , ATOM   1152  ND2 ASN A 217      12.191  40.659   3.230  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1183  N   ILE A 221      16.983  45.323   4.707  1.00  0.00           N  , ATOM   1182  O   GLY A 221      15.775  46.271   3.051  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1191  N   PRO A 221      19.375  47.828   5.561  1.00  0.00           N  , ATOM   1190  CD1 ILE A 221      16.941  45.748   9.117  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1198  N   ALA A 221      22.720  46.842   6.398  1.00  0.00           N  , ATOM   1197  CD  PRO A 221      18.646  49.093   5.775  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1320  N   SER A 235      32.060  23.541  26.404  1.00  0.00           N  , ATOM   1319  CD2 LEU A 235      31.821  22.509  21.095  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1395  H   ASN A  15      24.125  13.293   4.990  1.00  0.00           H  , ATOM   1394  H   ALA A  15      22.878  10.439   8.085  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1428  H   THR A  48      32.329  16.285  19.103  1.00  0.00           H  , ATOM   1427  H   VAL A  48      29.065  17.016  16.071  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1430  H   ARG A  48      30.533  12.736  21.093  1.00  0.00           H  , ATOM   1429  H   THR A  48      34.604  13.346  19.215  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1436  H   GLY A  48      33.331  12.467  23.288  1.00  0.00           H  , ATOM   1435  H   ARG A  48      25.839  11.704  26.958  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1437  H   ALA A  48      32.284   7.997  23.165  1.00  0.00           H  , ATOM   1436  H   GLY A  48      33.331  12.467  23.288  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1461  H   THR A  65      11.540  14.837  18.442  1.00  0.00           H  , ATOM   1460  H   ALA A  65      13.566  16.487  22.351  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1530  H   GLY A 120      25.978  27.921   0.452  1.00  0.00           H  , ATOM   1529  H   ASN A 120      31.856  29.429   0.447  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1531  H   SER A 120      26.990  26.223  -3.598  1.00  0.00           H  , ATOM   1530  H   GLY A 120      25.978  27.921   0.452  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1634  H   GLY A 192      17.633  34.093   8.467  1.00  0.00           H  , ATOM   1633  H   MET A 192      19.143  38.162   7.962  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1635  H   ARG A 192      13.271  34.304   8.911  1.00  0.00           H  , ATOM   1634  H   GLY A 192      17.633  34.093   8.467  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1675  H   VAL A 217      13.755  39.849  13.339  1.00  0.00           H  , ATOM   1674  H   ASN A 217      15.975  45.468  13.310  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1676  H   GLN A 217      12.602  40.835   8.986  1.00  0.00           H  , ATOM   1675  H   VAL A 217      13.755  39.849  13.339  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1679  H   SER A 217       8.957  43.170   8.106  1.00  0.00           H  , ATOM   1678  H   GLN A 217      13.092  45.122  11.608  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1681  H   ASN A 217       9.546  41.275   6.041  1.00  0.00           H  , ATOM   1680  H   SER A 217       6.187  43.862   6.028  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1684  H   GLY A 217       9.718  38.946   7.386  1.00  0.00           H  , ATOM   1683  H   ASN A 217      13.145  40.857   3.372  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1693  H   ILE A 221      17.303  44.483   5.109  1.00  0.00           H  , ATOM   1692  H   GLY A 221      15.710  42.412   4.266  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1694  H   ALA A 221      23.092  46.958   5.494  1.00  0.00           H  , ATOM   1693  H   ILE A 221      17.303  44.483   5.109  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1725  H   SER A 235      31.989  24.483  26.126  1.00  0.00           H  , ATOM   1724  H   LEU A 235      30.780  24.888  23.655  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+[01:43:48] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:48] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:49] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:49] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:50] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:50] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:51] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:51] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:52] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:52] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:53] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:53] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:54] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:55] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:55] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:56] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:56] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:57] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:57] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:58] Explicit valence for atom # 31 H, 2, is greater than permitted
+[01:43:58] Explicit valence for atom # 31 H, 2, is greater than permitted
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    354  N   ALA A  61       6.729  16.824  15.106  1.00  0.00           N  , ATOM    353  NE2 GLN A  61       1.414  13.257  17.071  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    872  N   GLU A 124      14.267 -11.370  26.325  1.00  0.00           N  , ATOM    871  CD  PRO A 124      12.978  -6.982  26.756  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    941  N   LEU A 131       7.376 -11.224  32.545  1.00  0.00           N  , ATOM    940  CG2 THR A 131       9.439 -13.790  34.823  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM    949  N   MET A 131       5.164  -9.750  31.476  1.00  0.00           N  , ATOM    948  CD2 LEU A 131      10.187  -8.914  33.272  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1371  N   ASP A 185      -8.703   2.048  36.315  1.00  0.00           N  , ATOM   1370  OH  TYR A 185      -1.526   2.054  40.772  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1379  N   THR A 185     -10.552   4.002  37.660  1.00  0.00           N  , ATOM   1378  OD2 ASP A 185     -13.270   0.654  36.531  1.00  0.00           O  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   1668  N   GLY A 223     -12.862   5.010  33.628  1.00  0.00           N  , ATOM   1667  NZ  LYS A 223     -14.959  10.305  39.619  1.00  0.00           N  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2319  H   ALA A  61       6.892  15.934  14.717  1.00  0.00           H  , ATOM   2318  H   GLN A  61       1.819  12.361  17.018  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2456  H   LEU A 131       7.521 -11.616  31.654  1.00  0.00           H  , ATOM   2455  H   THR A 131       8.565 -15.498  32.216  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2457  H   MET A 131       5.594 -10.404  30.879  1.00  0.00           H  , ATOM   2456  H   LEU A 131       7.521 -11.616  31.654  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2560  H   ASP A 185      -8.529   1.274  36.897  1.00  0.00           H  , ATOM   2559  H   TYR A 185      -0.724   2.515  40.620  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2561  H   THR A 185     -10.344   3.273  38.288  1.00  0.00           H  , ATOM   2560  H   ASP A 185      -8.529   1.274  36.897  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2629  H   GLY A 223     -12.359   4.733  34.428  1.00  0.00           H  , ATOM   2628  H   LYS A 223     -15.610  10.890  39.095  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+[01:59:07] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:07] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:08] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:08] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:08] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:09] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:09] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:10] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:10] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:10] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:11] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:11] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:12] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:12] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:13] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:13] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:14] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:14] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:14] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:15] Explicit valence for atom # 38 H, 2, is greater than permitted
+[01:59:15] Explicit valence for atom # 38 H, 2, is greater than permitted
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   2162  N   THR L  75     -28.205  13.625  51.772  1.00  0.00           N  , ATOM   2161  CD2 LEU L  75     -26.586  13.227  47.140  1.00  0.00           C  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+/home/enf/anaconda/lib/python2.7/site-packages/mdtraj-1.4.0.dev0-py2.7-linux-x86_64.egg/mdtraj/formats/pdb/pdbstructure.py:434: UserWarning: WARNING: two consecutive residues with same number (ATOM   3684  H   THR L  75     -27.395  14.087  52.087  1.00  0.00           H  , ATOM   3683  H   LEU L  75     -27.124   9.913  50.852  1.00  0.00           H  )
+  warnings.warn("WARNING: two consecutive residues with same number (%s, %s)" % (atom, self._current_residue.atoms[-1]))
+slurmstepd: error: Exceeded step memory limit at some point.

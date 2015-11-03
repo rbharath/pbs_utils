@@ -1,0 +1,2 @@
+python featurize_pdbbind_cluster.py --pdbbind-dir /scratch/users/enf/deep-docking/shallow/website-core-set --script-dir /scratch/users/enf/deep-docking/shallow/tmp/ --script-template "job%d.sbatch" --num-jobs 16 --pickle-dir /scratch/users/enf/deep-docking/shallow/website-core-set-3dgrid-t1 --queue-system slurm --featurization-type 3d_grid --box-width 16.0 --voxel-width 0.5 --nb-rotations 10 --nb-reflections 2
+

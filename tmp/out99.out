@@ -1,0 +1,4575 @@
+
+processing 0-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3wiz
+About to extract ligand and protein input files
+Extracted Input Files:
+('3wiz_ligand_hyd.pdb', '3wiz_ligand_hyd.pdbqt', '3wiz_protein_hyd.pdb', '3wiz_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3wiz_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 1-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3avn
+About to extract ligand and protein input files
+Extracted Input Files:
+('3avn_ligand_hyd.pdb', '3avn_ligand_hyd.pdbqt', '3avn_protein_hyd.pdb', '3avn_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3avn_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 2-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1e2l
+About to extract ligand and protein input files
+Extracted Input Files:
+('1e2l_ligand_hyd.pdb', '1e2l_ligand_hyd.pdbqt', '1e2l_protein_hyd.pdb', '1e2l_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1e2l_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 3-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4lrr
+About to extract ligand and protein input files
+Extracted Input Files:
+('4lrr_ligand_hyd.pdb', '4lrr_ligand_hyd.pdbqt', '4lrr_protein_hyd.pdb', '4lrr_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_259_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_237_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_237_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_237_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_237_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_229_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_229_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_248_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_248_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_248_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_248_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_259_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4lrr_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 4-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4ch2
+About to extract ligand and protein input files
+Extracted Input Files:
+('4ch2_ligand_hyd.pdb', '4ch2_ligand_hyd.pdbqt', '4ch2_protein_hyd.pdb', '4ch2_protein_hyd.pdbqt')
+WARNING: There is no atom named "NH1"in the protein residue  ARG_390_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_390_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_427_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_310_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_310_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_307_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_393_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_393_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_403_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_302_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_426_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_301_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4ch2_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 5-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1o0h
+About to extract ligand and protein input files
+Extracted Input Files:
+('1o0h_ligand_hyd.pdb', '1o0h_ligand_hyd.pdbqt', '1o0h_protein_hyd.pdb', '1o0h_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o0h_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 6-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3f33
+About to extract ligand and protein input files
+Extracted Input Files:
+('3f33_ligand_hyd.pdb', '3f33_ligand_hyd.pdbqt', '3f33_protein_hyd.pdb', '3f33_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3f33_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 7-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2piy
+About to extract ligand and protein input files
+Extracted Input Files:
+('2piy_ligand_hyd.pdb', '2piy_ligand_hyd.pdbqt', '2piy_protein_hyd.pdb', '2piy_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2piy_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 8-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3uoj
+About to extract ligand and protein input files
+Extracted Input Files:
+('3uoj_ligand_hyd.pdb', '3uoj_ligand_hyd.pdbqt', '3uoj_protein_hyd.pdb', '3uoj_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uoj_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 9-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3byu
+About to extract ligand and protein input files
+Extracted Input Files:
+('3byu_ligand_hyd.pdb', '3byu_ligand_hyd.pdbqt', '3byu_protein_hyd.pdb', '3byu_protein_hyd.pdbqt')
+WARNING: There is no atom named "CG"in the protein residue  PHE_402_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  PHE_402_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  PHE_402_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  PHE_402_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  PHE_402_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  PHE_402_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_401_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3byu_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 10-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1vea
+About to extract ligand and protein input files
+Extracted Input Files:
+('1vea_ligand_hyd.pdb', '1vea_ligand_hyd.pdbqt', '1vea_protein_hyd.pdb', '1vea_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_134_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_134_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_134_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_134_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_134_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_134_E. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_113_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_113_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  TYR_69_F. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_69_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_69_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_69_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_69_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_69_F. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_98_E. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_98_E. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_98_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_98_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_98_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_98_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_115_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_115_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_49_F. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_49_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  TYR_69_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_69_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_69_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_69_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_69_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_69_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  TYR_69_D. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_69_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_69_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_69_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_69_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_69_D. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_5_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_5_D. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_49_D. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_5_F. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_115_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_115_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_115_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_115_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_115_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_115_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_115_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_115_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_115_E. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_115_E. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_113_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_113_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_113_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_113_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_113_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_113_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_113_E. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_113_E. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_113_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_113_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_117_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_117_F. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_117_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_117_D. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_117_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_117_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1vea_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 11-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1j19
+About to extract ligand and protein input files
+Extracted Input Files:
+('1j19_ligand_hyd.pdb', '1j19_ligand_hyd.pdbqt', '1j19_protein_hyd.pdb', '1j19_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_3_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1j19_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 12-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2wvz
+About to extract ligand and protein input files
+Extracted Input Files:
+('2wvz_ligand_hyd.pdb', '2wvz_ligand_hyd.pdbqt', '2wvz_protein_hyd.pdb', '2wvz_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_20_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_757_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_757_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wvz_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 13-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3ztc
+About to extract ligand and protein input files
+Extracted Input Files:
+('3ztc_ligand_hyd.pdb', '3ztc_ligand_hyd.pdbqt', '3ztc_protein_hyd.pdb', '3ztc_protein_hyd.pdbqt')
+WARNING: There is no atom named "OE1"in the protein residue  GLU_199_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_199_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_98_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_98_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_171_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_173_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_173_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_134_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_134_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_204_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_204_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_91_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_91_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_177_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_177_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_196_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_104_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_83_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_83_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_143_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_143_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_63_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_63_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_68_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_68_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  TYR_185_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_185_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_185_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_185_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_185_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_185_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_200_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_200_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_64_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_64_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_176_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_176_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_101_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_101_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_43_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ztc_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 14-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2ieo
+About to extract ligand and protein input files
+Extracted Input Files:
+('2ieo_ligand_hyd.pdb', '2ieo_ligand_hyd.pdbqt', '2ieo_protein_hyd.pdb', '2ieo_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ieo_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 15-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1cw2
+About to extract ligand and protein input files
+Extracted Input Files:
+('1cw2_ligand_hyd.pdb', '1cw2_ligand_hyd.pdbqt', '1cw2_protein_hyd.pdb', '1cw2_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1cw2_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 16-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3qcf
+About to extract ligand and protein input files
+Extracted Input Files:
+('3qcf_ligand_hyd.pdb', '3qcf_ligand_hyd.pdbqt', '3qcf_protein_hyd.pdb', '3qcf_protein_hyd.pdbqt')
+WARNING: There is no atom named "NH1"in the protein residue  ARG_958_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_958_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_33_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_33_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_899_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_956_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_894_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_894_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_15_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_15_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  TYR_34_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_34_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_34_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_34_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_34_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_34_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_81_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_902_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_83_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_826_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_826_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3qcf_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 17-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3upv
+About to extract ligand and protein input files
+Extracted Input Files:
+('3upv_ligand_hyd.pdb', '3upv_ligand_hyd.pdbqt', '3upv_protein_hyd.pdb', '3upv_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3upv_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 18-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1o2p
+About to extract ligand and protein input files
+Extracted Input Files:
+('1o2p_ligand_hyd.pdb', '1o2p_ligand_hyd.pdbqt', '1o2p_protein_hyd.pdb', '1o2p_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o2p_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 19-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/5fwg
+About to extract ligand and protein input files
+Extracted Input Files:
+('5fwg_ligand_hyd.pdb', '5fwg_ligand_hyd.pdbqt', '5fwg_protein_hyd.pdb', '5fwg_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//5fwg_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 20-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1v2h
+About to extract ligand and protein input files
+Extracted Input Files:
+('1v2h_ligand_hyd.pdb', '1v2h_ligand_hyd.pdbqt', '1v2h_protein_hyd.pdb', '1v2h_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1v2h_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 21-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1aqi
+About to extract ligand and protein input files
+Extracted Input Files:
+('1aqi_ligand_hyd.pdb', '1aqi_ligand_hyd.pdbqt', '1aqi_protein_hyd.pdb', '1aqi_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1aqi_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 22-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1f4y
+About to extract ligand and protein input files
+Extracted Input Files:
+('1f4y_ligand_hyd.pdb', '1f4y_ligand_hyd.pdbqt', '1f4y_protein_hyd.pdb', '1f4y_protein_hyd.pdbqt')
+WARNING: There is no atom named "OE1"in the protein residue  GLU_5_H. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_5_H. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_209_H. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_109_H. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_109_H. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_190_L. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_190_L. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_57_H. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_57_H. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f4y_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 23-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1sb1
+About to extract ligand and protein input files
+Extracted Input Files:
+('1sb1_ligand_hyd.pdb', '1sb1_ligand_hyd.pdbqt', '1sb1_protein_hyd.pdb', '1sb1_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1sb1_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 24-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2gg5
+About to extract ligand and protein input files
+Extracted Input Files:
+('2gg5_ligand_hyd.pdb', '2gg5_ligand_hyd.pdbqt', '2gg5_protein_hyd.pdb', '2gg5_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gg5_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 25-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1o4i
+About to extract ligand and protein input files
+Extracted Input Files:
+('1o4i_ligand_hyd.pdb', '1o4i_ligand_hyd.pdbqt', '1o4i_protein_hyd.pdb', '1o4i_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1o4i_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 26-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3oy1
+About to extract ligand and protein input files
+Extracted Input Files:
+('3oy1_ligand_hyd.pdb', '3oy1_ligand_hyd.pdbqt', '3oy1_protein_hyd.pdb', '3oy1_protein_hyd.pdbqt')
+WARNING: There is no atom named "N"in the protein residue  ASN_46_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3oy1_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 27-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2p93
+About to extract ligand and protein input files
+Extracted Input Files:
+('2p93_ligand_hyd.pdb', '2p93_ligand_hyd.pdbqt', '2p93_protein_hyd.pdb', '2p93_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p93_4_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 28-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2f3r
+About to extract ligand and protein input files
+Extracted Input Files:
+('2f3r_ligand_hyd.pdb', '2f3r_ligand_hyd.pdbqt', '2f3r_protein_hyd.pdb', '2f3r_protein_hyd.pdbqt')
+(9, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_9_0_system.pdb
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_0_0_system.pdb
+(7, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_7_0_system.pdb
+(8, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_8_1_system.pdb
+(7, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_7_1_system.pdb
+(3, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_3_0_system.pdb
+(6, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_6_1_system.pdb
+(3, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_3_1_system.pdb
+(6, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_6_0_system.pdb
+(2, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_2_1_system.pdb
+(10, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_10_0_system.pdb
+(2, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_2_0_system.pdb
+(5, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_5_0_system.pdb
+(9, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_9_1_system.pdb
+(8, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_8_0_system.pdb
+(5, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_5_1_system.pdb
+(1, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_1_0_system.pdb
+(10, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_10_1_system.pdb
+(4, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_4_1_system.pdb
+(1, 1)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_1_1_system.pdb
+(4, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2f3r_4_0_system.pdb

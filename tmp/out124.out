@@ -1,0 +1,2559 @@
+
+processing 0-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4hgl
+About to extract ligand and protein input files
+Extracted Input Files:
+('4hgl_ligand_hyd.pdb', '4hgl_ligand_hyd.pdbqt', '4hgl_protein_hyd.pdb', '4hgl_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4hgl_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 1-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1pwq
+About to extract ligand and protein input files
+Extracted Input Files:
+('1pwq_ligand_hyd.pdb', '1pwq_ligand_hyd.pdbqt', '1pwq_protein_hyd.pdb', '1pwq_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1pwq_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 2-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1ze8
+About to extract ligand and protein input files
+Extracted Input Files:
+('1ze8_ligand_hyd.pdb', '1ze8_ligand_hyd.pdbqt', '1ze8_protein_hyd.pdb', '1ze8_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1ze8_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 3-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3gy2
+About to extract ligand and protein input files
+Extracted Input Files:
+('3gy2_ligand_hyd.pdb', '3gy2_ligand_hyd.pdbqt', '3gy2_protein_hyd.pdb', '3gy2_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3gy2_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 4-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2fjp
+About to extract ligand and protein input files
+Extracted Input Files:
+('2fjp_ligand_hyd.pdb', '2fjp_ligand_hyd.pdbqt', '2fjp_protein_hyd.pdb', '2fjp_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2fjp_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 5-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1oss
+About to extract ligand and protein input files
+Extracted Input Files:
+('1oss_ligand_hyd.pdb', '1oss_ligand_hyd.pdbqt', '1oss_protein_hyd.pdb', '1oss_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1oss_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 6-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3i90
+About to extract ligand and protein input files
+Extracted Input Files:
+('3i90_ligand_hyd.pdb', '3i90_ligand_hyd.pdbqt', '3i90_protein_hyd.pdb', '3i90_protein_hyd.pdbqt')
+WARNING: There is no atom named "NH1"in the protein residue  ARG_22_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_22_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_9_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_9_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3i90_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 7-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1d8f
+About to extract ligand and protein input files
+Extracted Input Files:
+('1d8f_ligand_hyd.pdb', '1d8f_ligand_hyd.pdbqt', '1d8f_protein_hyd.pdb', '1d8f_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1d8f_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 8-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2hzl
+About to extract ligand and protein input files
+Extracted Input Files:
+('2hzl_ligand_hyd.pdb', '2hzl_ligand_hyd.pdbqt', '2hzl_protein_hyd.pdb', '2hzl_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2hzl_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 9-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2rcb
+About to extract ligand and protein input files
+Extracted Input Files:
+('2rcb_ligand_hyd.pdb', '2rcb_ligand_hyd.pdbqt', '2rcb_protein_hyd.pdb', '2rcb_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2rcb_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 10-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1mu6
+About to extract ligand and protein input files
+Extracted Input Files:
+('1mu6_ligand_hyd.pdb', '1mu6_ligand_hyd.pdbqt', '1mu6_protein_hyd.pdb', '1mu6_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1mu6_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 11-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2vv9
+About to extract ligand and protein input files
+Extracted Input Files:
+('2vv9_ligand_hyd.pdb', '2vv9_ligand_hyd.pdbqt', '2vv9_protein_hyd.pdb', '2vv9_protein_hyd.pdbqt')
+WARNING: There is no atom named "OE1"in the protein residue  GLU_73_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_73_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_12_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_12_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_178_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_36_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_36_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_75_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  TYR_15_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_15_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_15_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_15_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_15_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_15_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_2_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_2_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_297_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_297_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_278_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_34_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2vv9_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 12-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3fi3
+About to extract ligand and protein input files
+Extracted Input Files:
+('3fi3_ligand_hyd.pdb', '3fi3_ligand_hyd.pdbqt', '3fi3_protein_hyd.pdb', '3fi3_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3fi3_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 13-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3et7
+About to extract ligand and protein input files
+Extracted Input Files:
+('3et7_ligand_hyd.pdb', '3et7_ligand_hyd.pdbqt', '3et7_protein_hyd.pdb', '3et7_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3et7_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 14-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2va6
+About to extract ligand and protein input files
+Extracted Input Files:
+('2va6_ligand_hyd.pdb', '2va6_ligand_hyd.pdbqt', '2va6_protein_hyd.pdb', '2va6_protein_hyd.pdbqt')
+WARNING: There is no atom named "C"in the protein residue  ILE_386_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+WARNING: There is no atom named "CA"in the protein residue  ILE_386_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+WARNING: There is no atom named "C"in the protein residue  ILE_386_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+WARNING: There is no atom named "CA"in the protein residue  ILE_386_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2va6_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 15-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3tn8
+About to extract ligand and protein input files
+Extracted Input Files:
+('3tn8_ligand_hyd.pdb', '3tn8_ligand_hyd.pdbqt', '3tn8_protein_hyd.pdb', '3tn8_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3tn8_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 16-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2ewa
+About to extract ligand and protein input files
+Extracted Input Files:
+('2ewa_ligand_hyd.pdb', '2ewa_ligand_hyd.pdbqt', '2ewa_protein_hyd.pdb', '2ewa_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2ewa_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 17-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3k5i
+About to extract ligand and protein input files
+Extracted Input Files:
+('3k5i_ligand_hyd.pdb', '3k5i_ligand_hyd.pdbqt', '3k5i_protein_hyd.pdb', '3k5i_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3k5i_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 18-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1yc4
+About to extract ligand and protein input files
+Extracted Input Files:
+('1yc4_ligand_hyd.pdb', '1yc4_ligand_hyd.pdbqt', '1yc4_protein_hyd.pdb', '1yc4_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1yc4_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 19-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1ym1
+About to extract ligand and protein input files
+Extracted Input Files:
+('1ym1_ligand_hyd.pdb', '1ym1_ligand_hyd.pdbqt', '1ym1_protein_hyd.pdb', '1ym1_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1ym1_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 20-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2p3b
+About to extract ligand and protein input files
+Extracted Input Files:
+('2p3b_ligand_hyd.pdb', '2p3b_ligand_hyd.pdbqt', '2p3b_protein_hyd.pdb', '2p3b_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p3b_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 21-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3sbh
+About to extract ligand and protein input files
+Extracted Input Files:
+('3sbh_ligand_hyd.pdb', '3sbh_ligand_hyd.pdbqt', '3sbh_protein_hyd.pdb', '3sbh_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3sbh_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 22-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1ll4
+About to extract ligand and protein input files
+Extracted Input Files:
+('1ll4_ligand_hyd.pdb', '1ll4_ligand_hyd.pdbqt', '1ll4_protein_hyd.pdb', '1ll4_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1ll4_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 23-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3bhb
+About to extract ligand and protein input files
+Extracted Input Files:
+('3bhb_ligand_hyd.pdb', '3bhb_ligand_hyd.pdbqt', '3bhb_protein_hyd.pdb', '3bhb_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_268_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3bhb_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 24-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3pjt
+About to extract ligand and protein input files
+Extracted Input Files:
+('3pjt_ligand_hyd.pdb', '3pjt_ligand_hyd.pdbqt', '3pjt_protein_hyd.pdb', '3pjt_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3pjt_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 25-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1swp
+About to extract ligand and protein input files
+Extracted Input Files:
+('1swp_ligand_hyd.pdb', '1swp_ligand_hyd.pdbqt', '1swp_protein_hyd.pdb', '1swp_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1swp_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 26-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1z1h
+About to extract ligand and protein input files
+Extracted Input Files:
+('1z1h_ligand_hyd.pdb', '1z1h_ligand_hyd.pdbqt', '1z1h_protein_hyd.pdb', '1z1h_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_141_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_41_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_45_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_43_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_143_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1z1h_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 27-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2pq9
+About to extract ligand and protein input files
+Extracted Input Files:
+('2pq9_ligand_hyd.pdb', '2pq9_ligand_hyd.pdbqt', '2pq9_protein_hyd.pdb', '2pq9_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2pq9_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 28-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1i33
+About to extract ligand and protein input files
+Extracted Input Files:
+('1i33_ligand_hyd.pdb', '1i33_ligand_hyd.pdbqt', '1i33_protein_hyd.pdb', '1i33_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1i33_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 29-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4gk2
+About to extract ligand and protein input files
+Extracted Input Files:
+('4gk2_ligand_hyd.pdb', '4gk2_ligand_hyd.pdbqt', '4gk2_protein_hyd.pdb', '4gk2_protein_hyd.pdbqt')
+WARNING: There is no atom named "NH1"in the protein residue  ARG_665_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_665_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4gk2_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 30-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4a7b
+About to extract ligand and protein input files
+Extracted Input Files:
+('4a7b_ligand_hyd.pdb', '4a7b_ligand_hyd.pdbqt', '4a7b_protein_hyd.pdb', '4a7b_protein_hyd.pdbqt')
+WARNING: There is no atom named "NH1"in the protein residue  ARG_109_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_109_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_109_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_109_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4a7b_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 31-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1m2x
+About to extract ligand and protein input files
+Extracted Input Files:
+('1m2x_ligand_hyd.pdb', '1m2x_ligand_hyd.pdbqt', '1m2x_protein_hyd.pdb', '1m2x_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1m2x_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 32-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3ed0
+About to extract ligand and protein input files
+Extracted Input Files:
+('3ed0_ligand_hyd.pdb', '3ed0_ligand_hyd.pdbqt', '3ed0_protein_hyd.pdb', '3ed0_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3ed0_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 33-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2qe4
+About to extract ligand and protein input files
+Extracted Input Files:
+('2qe4_ligand_hyd.pdb', '2qe4_ligand_hyd.pdbqt', '2qe4_protein_hyd.pdb', '2qe4_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2qe4_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 34-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1pz5
+About to extract ligand and protein input files
+Extracted Input Files:
+('1pz5_ligand_hyd.pdb', '1pz5_ligand_hyd.pdbqt', '1pz5_protein_hyd.pdb', '1pz5_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1pz5_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 35-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2xda
+About to extract ligand and protein input files
+Extracted Input Files:
+('2xda_ligand_hyd.pdb', '2xda_ligand_hyd.pdbqt', '2xda_protein_hyd.pdb', '2xda_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2xda_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 36-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2aoc
+About to extract ligand and protein input files
+Extracted Input Files:
+('2aoc_ligand_hyd.pdb', '2aoc_ligand_hyd.pdbqt', '2aoc_protein_hyd.pdb', '2aoc_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2aoc_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 37-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2br8
+About to extract ligand and protein input files
+Extracted Input Files:
+('2br8_ligand_hyd.pdb', '2br8_ligand_hyd.pdbqt', '2br8_protein_hyd.pdb', '2br8_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2br8_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 38-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2op9
+About to extract ligand and protein input files
+Extracted Input Files:
+('2op9_ligand_hyd.pdb', '2op9_ligand_hyd.pdbqt', '2op9_protein_hyd.pdb', '2op9_protein_hyd.pdbqt')
+WARNING: There is no atom named "OE1"in the protein residue  GLU_47_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_47_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2op9_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 39-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1w7h
+About to extract ligand and protein input files
+Extracted Input Files:
+('1w7h_ligand_hyd.pdb', '1w7h_ligand_hyd.pdbqt', '1w7h_protein_hyd.pdb', '1w7h_protein_hyd.pdbqt')
+WARNING: There is no atom named "C"in the protein residue  GLN_355_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+WARNING: There is no atom named "CA"in the protein residue  GLN_355_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1w7h_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 40-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4anx
+About to extract ligand and protein input files
+Extracted Input Files:
+('4anx_ligand_hyd.pdb', '4anx_ligand_hyd.pdbqt', '4anx_protein_hyd.pdb', '4anx_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4anx_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 41-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4i6h
+About to extract ligand and protein input files
+Extracted Input Files:
+('4i6h_ligand_hyd.pdb', '4i6h_ligand_hyd.pdbqt', '4i6h_protein_hyd.pdb', '4i6h_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4i6h_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 42-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3pj1
+About to extract ligand and protein input files
+Extracted Input Files:
+('3pj1_ligand_hyd.pdb', '3pj1_ligand_hyd.pdbqt', '3pj1_protein_hyd.pdb', '3pj1_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3pj1_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 43-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2qcg
+About to extract ligand and protein input files
+Extracted Input Files:
+('2qcg_ligand_hyd.pdb', '2qcg_ligand_hyd.pdbqt', '2qcg_protein_hyd.pdb', '2qcg_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2qcg_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 44-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2b7d
+About to extract ligand and protein input files
+Extracted Input Files:
+('2b7d_ligand_hyd.pdb', '2b7d_ligand_hyd.pdbqt', '2b7d_protein_hyd.pdb', '2b7d_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2b7d_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 45-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3udm
+About to extract ligand and protein input files
+Extracted Input Files:
+('3udm_ligand_hyd.pdb', '3udm_ligand_hyd.pdbqt', '3udm_protein_hyd.pdb', '3udm_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3udm_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 46-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2oo8
+About to extract ligand and protein input files
+Extracted Input Files:
+('2oo8_ligand_hyd.pdb', '2oo8_ligand_hyd.pdbqt', '2oo8_protein_hyd.pdb', '2oo8_protein_hyd.pdbqt')
+WARNING: There is no atom named "CG"in the protein residue  TYR_899_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_899_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_899_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_899_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_899_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_899_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_916_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_894_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_894_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  HIS_894_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_894_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  HIS_894_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  HIS_894_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_894_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_856_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_856_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_99_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_99_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_58_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_58_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_842_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_842_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_859_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_859_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_849_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_849_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_893_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_893_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_858_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_867_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_867_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_863_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_109_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_109_X. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2oo8_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 47-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1ntv
+About to extract ligand and protein input files
+Extracted Input Files:
+('1ntv_ligand_hyd.pdb', '1ntv_ligand_hyd.pdbqt', '1ntv_protein_hyd.pdb', '1ntv_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1ntv_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 48-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3fhb
+About to extract ligand and protein input files
+Extracted Input Files:
+('3fhb_ligand_hyd.pdb', '3fhb_ligand_hyd.pdbqt', '3fhb_protein_hyd.pdb', '3fhb_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_337_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_369_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_369_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_241_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_214_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_351_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_351_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_238_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_238_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3fhb_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 49-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4h3b
+About to extract ligand and protein input files
+Extracted Input Files:
+('4h3b_ligand_hyd.pdb', '4h3b_ligand_hyd.pdbqt', '4h3b_protein_hyd.pdb', '4h3b_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_134_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_382_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_382_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_212_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_212_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_326_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_260_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4h3b_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 50-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1kr3
+About to extract ligand and protein input files
+Extracted Input Files:
+('1kr3_ligand_hyd.pdb', '1kr3_ligand_hyd.pdbqt', '1kr3_protein_hyd.pdb', '1kr3_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1kr3_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 51-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2p53
+About to extract ligand and protein input files
+Extracted Input Files:
+('2p53_ligand_hyd.pdb', '2p53_ligand_hyd.pdbqt', '2p53_protein_hyd.pdb', '2p53_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2p53_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 52-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3e1r
+About to extract ligand and protein input files
+Extracted Input Files:
+('3e1r_ligand_hyd.pdb', '3e1r_ligand_hyd.pdbqt', '3e1r_protein_hyd.pdb', '3e1r_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3e1r_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 53-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2nm1
+About to extract ligand and protein input files
+Extracted Input Files:
+('2nm1_ligand_hyd.pdb', '2nm1_ligand_hyd.pdbqt', '2nm1_protein_hyd.pdb', '2nm1_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2nm1_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 54-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2mc1
+About to extract ligand and protein input files
+Extracted Input Files:
+('2mc1_ligand_hyd.pdb', '2mc1_ligand_hyd.pdbqt', '2mc1_protein_hyd.pdb', '2mc1_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2mc1_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 55-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1w2k
+About to extract ligand and protein input files
+Extracted Input Files:
+('1w2k_ligand_hyd.pdb', '1w2k_ligand_hyd.pdbqt', '1w2k_protein_hyd.pdb', '1w2k_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1w2k_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 56-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2zp0
+About to extract ligand and protein input files
+Extracted Input Files:
+('2zp0_ligand_hyd.pdb', '2zp0_ligand_hyd.pdbqt', '2zp0_protein_hyd.pdb', '2zp0_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2zp0_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 57-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4f9g
+About to extract ligand and protein input files
+Extracted Input Files:
+('4f9g_ligand_hyd.pdb', '4f9g_ligand_hyd.pdbqt', '4f9g_protein_hyd.pdb', '4f9g_protein_hyd.pdbqt')
+WARNING: There is no atom named "NH1"in the protein residue  ARG_191_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_191_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_174_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_174_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  TYR_240_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_240_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_240_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_240_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_240_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_240_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_310_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_310_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_310_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_310_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  PHE_323_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  PHE_323_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  PHE_323_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  PHE_323_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  PHE_323_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  PHE_323_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  PHE_323_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  PHE_323_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  PHE_323_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  PHE_323_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  PHE_323_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  PHE_323_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_338_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_191_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_191_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_220_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_220_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_296_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_296_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_296_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_296_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4f9g_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 58-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1b56
+About to extract ligand and protein input files
+Extracted Input Files:
+('1b56_ligand_hyd.pdb', '1b56_ligand_hyd.pdbqt', '1b56_protein_hyd.pdb', '1b56_protein_hyd.pdbqt')
+WARNING: There is no atom named "OD1"in the protein residue  ASP_91_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_91_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1b56_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 59-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1nj5
+About to extract ligand and protein input files
+Extracted Input Files:
+('1nj5_ligand_hyd.pdb', '1nj5_ligand_hyd.pdbqt', '1nj5_protein_hyd.pdb', '1nj5_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1nj5_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 60-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4gj9
+About to extract ligand and protein input files
+Extracted Input Files:
+('4gj9_ligand_hyd.pdb', '4gj9_ligand_hyd.pdbqt', '4gj9_protein_hyd.pdb', '4gj9_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4gj9_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 61-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3opp
+About to extract ligand and protein input files
+Extracted Input Files:
+('3opp_ligand_hyd.pdb', '3opp_ligand_hyd.pdbqt', '3opp_protein_hyd.pdb', '3opp_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3opp_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 62-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3iqh
+About to extract ligand and protein input files
+Extracted Input Files:
+('3iqh_ligand_hyd.pdb', '3iqh_ligand_hyd.pdbqt', '3iqh_protein_hyd.pdb', '3iqh_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3iqh_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 63-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2x39
+About to extract ligand and protein input files
+Extracted Input Files:
+('2x39_ligand_hyd.pdb', '2x39_ligand_hyd.pdbqt', '2x39_protein_hyd.pdb', '2x39_protein_hyd.pdbqt')
+WARNING: There is no atom named "OE1"in the protein residue  GLU_471_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_471_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_468_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_468_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2x39_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 64-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2gh9
+About to extract ligand and protein input files
+Extracted Input Files:
+('2gh9_ligand_hyd.pdb', '2gh9_ligand_hyd.pdbqt', '2gh9_protein_hyd.pdb', '2gh9_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2gh9_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 65-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3eka
+About to extract ligand and protein input files
+Extracted Input Files:
+('3eka_ligand_hyd.pdb', '3eka_ligand_hyd.pdbqt', '3eka_protein_hyd.pdb', '3eka_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3eka_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 66-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3erd
+About to extract ligand and protein input files
+Extracted Input Files:
+('3erd_ligand_hyd.pdb', '3erd_ligand_hyd.pdbqt', '3erd_protein_hyd.pdb', '3erd_protein_hyd.pdbqt')
+WARNING: There is no atom named "OE1"in the protein residue  GLU_470_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_470_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_330_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_330_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_330_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_330_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_332_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_332_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_531_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  PHE_461_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  PHE_461_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  PHE_461_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  PHE_461_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  PHE_461_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  PHE_461_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_548_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_548_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_467_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_531_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "C"in the protein residue  HIS_550_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+WARNING: There is no atom named "CA"in the protein residue  HIS_550_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_550_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_550_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  HIS_550_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_550_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  HIS_550_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  HIS_550_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_550_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_473_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_473_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "C"in the protein residue  HIS_550_B. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+WARNING: There is no atom named "CA"in the protein residue  HIS_550_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine secondary structure. If this residue is far from the active site, this
+warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_550_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_550_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  HIS_550_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_550_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  HIS_550_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  HIS_550_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_550_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_470_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_470_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_335_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_335_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_335_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_335_B. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3erd_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 67-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/1f73
+About to extract ligand and protein input files
+Extracted Input Files:
+('1f73_ligand_hyd.pdb', '1f73_ligand_hyd.pdbqt', '1f73_protein_hyd.pdb', '1f73_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//1f73_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 68-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3uvo
+About to extract ligand and protein input files
+Extracted Input Files:
+('3uvo_ligand_hyd.pdb', '3uvo_ligand_hyd.pdbqt', '3uvo_protein_hyd.pdb', '3uvo_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_109_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_313_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_313_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_126_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_46_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_120_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_227_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_247_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_87_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_81_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_32_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3uvo_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 69-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/6apr
+About to extract ligand and protein input files
+Extracted Input Files:
+('6apr_ligand_hyd.pdb', '6apr_ligand_hyd.pdbqt', '6apr_protein_hyd.pdb', '6apr_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//6apr_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 70-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3clp
+About to extract ligand and protein input files
+Extracted Input Files:
+('3clp_ligand_hyd.pdb', '3clp_ligand_hyd.pdbqt', '3clp_protein_hyd.pdb', '3clp_protein_hyd.pdbqt')
+WARNING: There is no atom named "NH1"in the protein residue  ARG_252_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_252_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_252_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_252_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_246_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_246_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_349_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_349_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_349_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_349_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_343_C. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_220_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_220_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3clp_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 71-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4k2y
+About to extract ligand and protein input files
+Extracted Input Files:
+('4k2y_ligand_hyd.pdb', '4k2y_ligand_hyd.pdbqt', '4k2y_protein_hyd.pdb', '4k2y_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4k2y_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 72-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4j8t
+About to extract ligand and protein input files
+Extracted Input Files:
+('4j8t_ligand_hyd.pdb', '4j8t_ligand_hyd.pdbqt', '4j8t_protein_hyd.pdb', '4j8t_protein_hyd.pdbqt')
+WARNING: There is no atom named "OE1"in the protein residue  GLU_73_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_73_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_18_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_5_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_5_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_68_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_68_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_42_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_46_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_46_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_12_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_12_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_90_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_90_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  HIS_90_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_90_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  HIS_90_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  HIS_90_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_90_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  TYR_61_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  TYR_61_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  TYR_61_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  TYR_61_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  TYR_61_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  TYR_61_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_4_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_56_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_56_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_49_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_49_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_123_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_123_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_109_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_109_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_60_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_60_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_106_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_106_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_76_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_76_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_20_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_20_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_78_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_78_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_29_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_29_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_126_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_126_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_96_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4j8t_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 73-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4fm8
+About to extract ligand and protein input files
+Extracted Input Files:
+('4fm8_ligand_hyd.pdb', '4fm8_ligand_hyd.pdbqt', '4fm8_protein_hyd.pdb', '4fm8_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4fm8_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 74-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2yjc
+About to extract ligand and protein input files
+Extracted Input Files:
+('2yjc_ligand_hyd.pdb', '2yjc_ligand_hyd.pdbqt', '2yjc_protein_hyd.pdb', '2yjc_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2yjc_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 75-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2xm2
+About to extract ligand and protein input files
+Extracted Input Files:
+('2xm2_ligand_hyd.pdb', '2xm2_ligand_hyd.pdbqt', '2xm2_protein_hyd.pdb', '2xm2_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2xm2_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 76-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2qu2
+About to extract ligand and protein input files
+Extracted Input Files:
+('2qu2_ligand_hyd.pdb', '2qu2_ligand_hyd.pdbqt', '2qu2_protein_hyd.pdb', '2qu2_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2qu2_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 77-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3o95
+About to extract ligand and protein input files
+Extracted Input Files:
+('3o95_ligand_hyd.pdb', '3o95_ligand_hyd.pdbqt', '3o95_protein_hyd.pdb', '3o95_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3o95_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 78-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2wei
+About to extract ligand and protein input files
+Extracted Input Files:
+('2wei_ligand_hyd.pdb', '2wei_ligand_hyd.pdbqt', '2wei_protein_hyd.pdb', '2wei_protein_hyd.pdbqt')
+WARNING: There is no atom named "NZ"in the protein residue  LYS_231_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_338_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_338_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_94_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_84_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_334_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_277_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2wei_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 79-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4glx
+About to extract ligand and protein input files
+Extracted Input Files:
+('4glx_ligand_hyd.pdb', '4glx_ligand_hyd.pdbqt', '4glx_protein_hyd.pdb', '4glx_protein_hyd.pdbqt')
+WARNING: There is no atom named "OE1"in the protein residue  GLU_5_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_5_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_566_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_566_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_34_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_34_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_567_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_567_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_158_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_398_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_398_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_469_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_469_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  HIS_469_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "ND1"in the protein residue  HIS_469_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  HIS_469_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  HIS_469_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NE2"in the protein residue  HIS_469_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_255_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_255_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_61_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_61_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_248_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_545_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_545_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_502_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CG"in the protein residue  PHE_302_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD1"in the protein residue  PHE_302_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CD2"in the protein residue  PHE_302_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE1"in the protein residue  PHE_302_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CE2"in the protein residue  PHE_302_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "CZ"in the protein residue  PHE_302_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-pi and pi-cation interactions. If this residue is far from the
+active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_48_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_100_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_100_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_305_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_305_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_190_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_190_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_419_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_419_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_298_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_298_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_486_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_486_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_261_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_261_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_89_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_89_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_441_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_400_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_400_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_491_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_96_A. Please use
+standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_544_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_544_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_76_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_76_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_416_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_416_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD1"in the protein residue  ASP_26_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OD2"in the protein residue  ASP_26_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH1"in the protein residue  ARG_101_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_101_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4glx_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 80-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/3vnt
+About to extract ligand and protein input files
+Extracted Input Files:
+('3vnt_ligand_hyd.pdb', '3vnt_ligand_hyd.pdbqt', '3vnt_protein_hyd.pdb', '3vnt_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//3vnt_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 81-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/2a5s
+About to extract ligand and protein input files
+Extracted Input Files:
+('2a5s_ligand_hyd.pdb', '2a5s_ligand_hyd.pdbqt', '2a5s_protein_hyd.pdb', '2a5s_protein_hyd.pdbqt')
+WARNING: There is no atom named "NH1"in the protein residue  ARG_195_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NH2"in the protein residue  ARG_195_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "NZ"in the protein residue  LYS_230_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine pi-cation and salt-bridge interactions. If this residue is far from
+the active site, this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE1"in the protein residue  GLU_30_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+WARNING: There is no atom named "OE2"in the protein residue  GLU_30_A. Please
+use standard naming conventions for all protein residues. This atom is needed to
+determine salt-bridge interactions. If this residue is far from the active site,
+this warning may not affect the NNScore.
+
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//2a5s_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+
+processing 82-th pdb /scratch/users/enf/deep-docking/datasets/pdbbind/website/4fkk
+About to extract ligand and protein input files
+Extracted Input Files:
+('4fkk_ligand_hyd.pdb', '4fkk_ligand_hyd.pdbqt', '4fkk_protein_hyd.pdb', '4fkk_protein_hyd.pdbqt')
+(0, 0)
+/scratch/users/enf/deep-docking/shallow/pdbbind_full_tmp//4fkk_0_0_system.pdb
+Finished featurizing atoms
+Correct number of features in grid!
+About to compute sequence.
+About to compute ligand smiles string.
+About to write pickle to /scratch/users/enf/deep-docking/shallow/pdbbind_0rot_0ref-3dgrid-t1/features124.p

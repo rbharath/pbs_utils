@@ -28,12 +28,16 @@ def parse_args(input_args=None):
                       help='Input box width in Angstroms, default=16')
   parser.add_argument('--voxel-width', required=0,
                       help='Input voxel width in Angstroms, default=0.5')
-  parser.add_argument('--tmp-dir', required=0,
+  parser.add_argument('--nb-rotations', required=1,
+                      help='Number of times to rotate grid, integer')
+  parser.add_argument('--nb-reflections', required=1,
+                      help='Number of times to reflect grid, integer')
+  parser.add_argument('--save-dir', required=0,
                       help='Temporary directory for saving files')
   return parser.parse_args(input_args)
 
 def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
-    pickle_dir, queue_system, featurization_type, box_width, voxel_width):
+    pickle_dir, queue_system, featurization_type, box_width, voxel_width, nb_rotations, nb_reflections):
   """Featurize all entries in pdbbind_dir and write features to pickle_out
 
   pdbbind_dir should be a dir, with K subdirs, one for each protein-ligand
@@ -46,6 +50,9 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
   pickle_out: string
     Path to write pickle output.
   """
+  if not os.path.exists(script_dir): os.makedirs(script_dir) 
+  if not os.path.exists(pickle_dir): os.makedirs(pickle_dir)
+
   assert os.path.isdir(pdbbind_dir)
 
   # Extract the subdirectories in pdbbind_dir
@@ -62,11 +69,12 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
     print job_dirs
 
     # TODO(rbharath): This is horrible. Clean this script up...
-    pickle_out = os.path.join(pickle_dir, "features%d.p" % job)
+    pickle_out = os.path.join(pickle_dir, "features%d.pkl.gz" % job)
     #TODO(enf): the path needs to be user-independent 
-    command = " ".join(["python", "~/software/pbs_utils/featurize_pdbbind_cluster_job.py",
+    command = " ".join(["python", "/scratch/users/enf/deep-docking/cluster_utils/featurize_pdbbind_cluster_job.py",
         "--pdb-directories"] + job_dirs + ["--featurization-type", featurization_type] 
-        + ["--box-width", box_width] + ["--voxel-width", voxel_width] + ["--tmp-dir", script_dir] + ["--pickle-out", pickle_out, "\n"])
+        + ["--box-width", box_width] + ["--voxel-width", voxel_width] + ["--nb-rotations", nb_rotations]
+        + ["--nb-reflections", nb_reflections] + ["--tmp-dir", script_dir] + ["--pickle-out", pickle_out, "\n"])
 
     print "command: "
     print command
@@ -108,4 +116,5 @@ def featurize_pdbbind(pdbbind_dir, script_dir, script_template, num_jobs,
 if __name__ == '__main__':
   args = parse_args()
   featurize_pdbbind(args.pdbbind_dir, args.script_dir,
-      args.script_template, args.num_jobs, args.pickle_dir, args.queue_system, args.featurization_type, args.box_width, args.voxel_width)
+      args.script_template, args.num_jobs, args.pickle_dir, args.queue_system, args.featurization_type, args.box_width, args.voxel_width,
+      args.nb_rotations, args.nb_reflections)
