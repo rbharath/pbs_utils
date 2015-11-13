@@ -1,0 +1,1 @@
+python generate_pdbbind_data.py --pdbbind-label-file /scratch/users/enf/deep-docking/datasets/pdbbind/INDEX_general_PL_data.2014 --feature-files /scratch/users/enf/deep-docking/shallow/pdbbind_smiles_ecfp_ligonly_nohyd_t1/*.pkl.gz --out /scratch/users/enf/deep-docking/shallow/pdbbind_smiles_ecfp_ligonly_nohyd_t1.pkl.gz --output_type pkl.gz --parallel parallel
