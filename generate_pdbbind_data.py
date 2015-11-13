@@ -103,6 +103,8 @@ def generate_dataset(pdbbind_label_file, feature_files, out, output_type, parall
     feature_dicts = pool.map(read_feature_file, feature_files)
     feature_dict = merge_dicts(*feature_dicts)
     pool.terminate()
+    print(len(feature_dict))
+    print(len(feature_dict.keys()))
   if output_type == "csv":
     write_csv(feature_dict, labels, out)
   elif output_type == "pkl.gz":
